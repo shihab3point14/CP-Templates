@@ -59,4 +59,5 @@ struct Fraction {
         Fraction quotient(q, 1);
         return *this - other * quotient;
     }
-};
+}
+
